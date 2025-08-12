@@ -335,11 +335,11 @@ const Index = () => {
               <div className="space-y-2 text-sm opacity-80">
                 <div className="flex items-center space-x-2">
                   <Icon name="Phone" size={16} />
-                  <span>+7 (999) 123-45-67</span>
+                  <span>+7 978 898 74 01</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={16} />
-                  <span>info@braceletstore.ru</span>
+                  <span>infobrasletsotre@gmail.com</span>
                 </div>
               </div>
             </div>
