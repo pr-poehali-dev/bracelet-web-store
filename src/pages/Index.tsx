@@ -265,16 +265,7 @@ const Index = () => {
             <p className="text-muted-foreground">Удобные способы получения заказа</p>
           </div>
           
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            <Card className="text-center">
-              <CardContent className="p-6">
-                <Icon name="Truck" size={48} className="text-primary mx-auto mb-4" />
-                <h4 className="font-semibold mb-2">Курьерская доставка</h4>
-                <p className="text-sm text-muted-foreground">По Москве и СПб 1-2 дня</p>
-                <p className="font-semibold text-primary mt-2">от 200 ₽</p>
-              </CardContent>
-            </Card>
-            
+          <div className="grid md:grid-cols-3 gap-8">
             <Card className="text-center">
               <CardContent className="p-6">
                 <Icon name="Package" size={48} className="text-primary mx-auto mb-4" />
