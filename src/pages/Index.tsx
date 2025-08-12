@@ -16,14 +16,6 @@ const Index = () => {
       sizes: ["S", "M", "L", "XL"]
     },
     {
-      id: 2,
-      name: "Классик Кожа",
-      price: 2500,
-      image: "/img/2d17a788-221d-43f5-9c79-71e184b2d58c.jpg",
-      category: "Плетёный",
-      sizes: ["M", "L", "XL"]
-    },
-    {
       id: 3,
       name: "Outdoor Pro",
       price: 1800,
